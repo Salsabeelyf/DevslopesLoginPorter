@@ -24,3 +24,9 @@ img.signin-img
     margin: auto;
     display: block;
 }
+
+form.signin-form
+{
+    width: 50%;
+    margin: auto;
+}
