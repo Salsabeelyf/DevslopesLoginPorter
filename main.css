@@ -28,7 +28,7 @@ img.signin-img
 
 form.signin-form
 {
-    width: 50%;
+    max-width: 350px;
     margin: auto;
 }
 
