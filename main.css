@@ -37,4 +37,13 @@ button.signin-btn
     width: 100%;
     color: #ffffff;
     background-color: #d64829;
+    margin-bottom: 1rem;
+}
+
+a.create-an-account
+{
+    font-size: 1.3rem;
+    text-align: center;
+    display: block;
+    margin-top: 0.8rem;
 }
