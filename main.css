@@ -23,10 +23,18 @@ img.signin-img
     padding: 0 2rem 2rem;
     margin: auto;
     display: block;
+    width: 52%;
 }
 
 form.signin-form
 {
     width: 50%;
     margin: auto;
+}
+
+button.signin-btn
+{
+    width: 100%;
+    color: #ffffff;
+    background-color: #d64829;
 }
